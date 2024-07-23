@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Murat_Yucedag_Diziler", "Murat_Yucedag_Diziler\Murat_Yucedag_Diziler.csproj", "{1FE7A6C8-3330-444A-817B-1089DD5041B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foreach", "Foreach\Foreach.csproj", "{5509D287-FC47-41BA-A916-9AD83F174ADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FE7A6C8-3330-444A-817B-1089DD5041B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE7A6C8-3330-444A-817B-1089DD5041B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE7A6C8-3330-444A-817B-1089DD5041B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE7A6C8-3330-444A-817B-1089DD5041B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5509D287-FC47-41BA-A916-9AD83F174ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5509D287-FC47-41BA-A916-9AD83F174ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5509D287-FC47-41BA-A916-9AD83F174ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5509D287-FC47-41BA-A916-9AD83F174ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {535AD681-C96B-40C1-998C-187BC80CB175}
+	EndGlobalSection
+EndGlobal
